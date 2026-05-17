@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MemoryWall</string>
+
+    <!-- Facebook Configuration -->
+    <!-- DO NOT commit real credentials here. -->
+    <!-- See README.md "Facebook Credentials Setup" for instructions. -->
+    <string name="facebook_app_id">YOUR_FACEBOOK_APP_ID</string>
+    <string name="fb_login_protocol_scheme">fbYOUR_FACEBOOK_APP_ID</string>
+    <string name="facebook_client_token">YOUR_FACEBOOK_CLIENT_TOKEN</string>
+</resources>
